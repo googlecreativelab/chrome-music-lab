@@ -24,7 +24,7 @@
     "brfs": "^1.4.0",
     "domready": "^1.0.8",
     "interval-tree-1d": "^1.0.3",
-    "jquery": "^2.2.0",
+    "jquery": "^3.5.0",
     "node-sass": "^3.4.2",
     "process": "^0.11.1",
     "startaudiocontext": "^1.1.0",
