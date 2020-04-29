@@ -24,7 +24,7 @@
     "brfs": "^1.4.0",
     "domready": "^1.0.8",
     "interval-tree-1d": "^1.0.3",
-    "jquery": "^2.2.1",
+    "jquery": "^3.5.0",
     "jquery-mousewheel": "^3.1.13",
     "midiconvert": "^0.4.2",
     "node-sass": "^3.4.2",
