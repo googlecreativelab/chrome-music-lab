@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "domready": "^1.0.8",
-    "jquery": "^2.2.0",
+    "jquery": "^3.5.0",
     "jquery-knob": "^1.2.11",
     "slick-carousel": "^1.5.8",
     "startaudiocontext": "^1.1.0",
