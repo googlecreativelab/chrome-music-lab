@@ -12,7 +12,7 @@
     "gl-buffer": "^2.1.2",
     "gl-shader": "^4.0.5",
     "glsl-aastep": "^1.0.1",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.19",
     "material-design-lite": "^1.0.5",
     "tone": "^0.6.1",
     "virtual-element": "^1.2.0",
